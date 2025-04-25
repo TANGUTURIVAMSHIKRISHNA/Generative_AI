@@ -32,6 +32,10 @@ if st.button("Generate Answer"):
                 st.write(response.text)
             except Exception as e:
                 st.error(f"Error:{e}")
+                
+ # Display information about the model
+st.write("Built model by Vamshikrishna!")
 
-                st.write(# Build by VamshiKrishna!)
+
+      
                 
