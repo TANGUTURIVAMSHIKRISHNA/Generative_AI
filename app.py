@@ -32,4 +32,6 @@ if st.button("Generate Answer"):
                 st.write(response.text)
             except Exception as e:
                 st.error(f"Error:{e}")
+
+st.write(# Build by VamshiKrishna!)
                 
